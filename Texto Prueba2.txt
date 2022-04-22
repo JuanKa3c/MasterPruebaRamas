@@ -1,0 +1,4 @@
+1 HOLA
+2 MUDO
+3 COMO 
+4 ESTAS
